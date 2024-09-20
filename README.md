@@ -18,9 +18,6 @@
 - [Build-A-Shell](https://github.com/RamiHann/build-a-shell)  
   A custom Linux shell with advanced features like process management and command history.
 
-## 📊 GitHub Stats
-![Rami's GitHub stats](https://github-readme-stats.vercel.app/api?username=RamiHann&show_icons=true&theme=radical)
-
 ## 📫 Connect with Me
 - [LinkedIn](https://linkedin.com/in/rami-hanna)
 - [Email](mailto:ramihanna2001@gmail.com)
@@ -30,6 +27,8 @@
 **RamiHann/RamiHann** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
+## 📊 GitHub Stats
+![Rami's GitHub stats](https://github-readme-stats.vercel.app/api?username=RamiHann&show_icons=true&theme=radical)
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
